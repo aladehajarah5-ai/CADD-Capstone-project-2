@@ -11,6 +11,7 @@ The objective of this project was to evaluate potential drug candidates and perf
 
 Step 1: Drug-Likeness Screening
 The first stage of the project involved evaluating five compounds:
+
 • Aspirin
 • Ibuprofen
 • Acetaminophen
